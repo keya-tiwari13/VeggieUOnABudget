@@ -1,0 +1,20 @@
+.section.motivation {
+    .col.img {
+        text-align: left;
+        img {
+            width: 70%;
+        }
+    }
+    .col.typography {
+        padding-left: 0.01em;
+        .skill-item {
+            border-left: 0.02em solid black;
+            margin-bottom: 0.5em;
+            padding: 0.1em 0 0.1em 0.5em;
+            color: var(--text-light);
+            font-weight: bold;
+            transform: translateX(100%);
+            opacity: 0;
+        }
+    }
+}

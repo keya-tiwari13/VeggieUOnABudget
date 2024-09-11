@@ -1,0 +1,19 @@
+.search-box{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 30px;
+    input, .btn{
+        height: 30px;
+    }
+    input{
+        min-width: 225px;
+        padding: 0 0.3em;
+        border-radius: 5px 0 0 5px;
+        outline: none;
+    }
+    .btn{
+        padding-block: 0;
+        font-size: 0.85em
+    }
+}

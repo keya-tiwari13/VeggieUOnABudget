@@ -1,0 +1,32 @@
+.recipes-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 1em;
+}
+
+.recipe-card{
+    isolation:isolate;
+    border-radius: 3px;
+    overflow: hidden;
+    .recipe-card-info{
+        padding: 10px;
+        border: 0.3px solid black;
+    }
+    .custom-image{
+        z-index: -1;
+    }
+    .recipe-title{
+        font-size: 0.9em;
+        //align: center;
+        font-weight: bold;
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
+    }
+    .recipe-info{
+        font-size: 0.9em;
+        letter-spacing: 0.5px;;
+    }
+    .view-btn{
+        color: rgb(183, 57, 78);
+    }
+}
