@@ -18,6 +18,18 @@ const recipes = [
         title: "chilli paneer",
         image: "/images/chillipaneer.jpg",
         info:"quick paneer because i cannot live without it",
+        description:"growing up Indian, paneer was quite a necessity in our household. my mom taught me how to make several food items with paneer- even gulab jamun (thanks ma <3)! chilli paneer will always be one of my fav dishes and im so glad it's so easy to make!",
+        steps: [
+            "cut up your paneer into cute cubes- you can make as much as you want but this recipe will be assuming you are using ~200g of cubed paneer.",
+            "if you have cornstarch/cornflour, toss your paneer in that to make sure they come out crispy! if you don't have it, it's okay it'll still taste fire.",
+            "pan fry your paneer until it's golden brown on all sides.",
+            "sauté any veggies you have at your disposal. usually i like doing green peppers and onion.",
+            "mix together 1 tbsp soy sauce, 1 tbsp ketchup and 1 tsp of chili sauce (if you like spice) together. ",
+            "stir in the sauce concoction into the veggies and coat all of them evenly.",
+            "add the paneer to the pan and toss everything together. let it cook for a bit so that everything combines well.",
+            "season with salt, pepper, or any other seasonings you would like and you're done!",
+            "NOTE: usually i love my chili paneer with rice so if you can, make some rice while you're cooking so that you can have a nice hearty meal."
+        ],
         path:"/recipes/chillipaneer"
     },
     {

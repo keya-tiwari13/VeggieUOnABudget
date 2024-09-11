@@ -9,7 +9,7 @@ export default function Recipes(){
             steps: [
                 "preheat your oven to 180 degrees celsius",
                 "add 3/4 cup oat flour, 1/3 cup of cocoa powder, 5 tbps of sugar, and 1/2 tsp of baking soda in a bowl.",
-                "next, add 1/2 (plus a bit more if you want them to be soft) and 1.5 tbsp olive oil to the same bowl and mix until smooth.",
+                "next, add 1/2 cup (plus a bit more if you want them to be soft) and 1.5 tbsp olive oil to the same bowl and mix until smooth.",
                 "transfer to muffin trays and top with chocolate chips or nuts (optional).",
                 "bake for 12 minutes and you're done!",
                 "NOTE: if you have oats at home DONT buy oat flour!!! just blend whatever you have in a blender and it'll be perfect :)"
