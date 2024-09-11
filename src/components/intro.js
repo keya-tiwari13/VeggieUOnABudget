@@ -1,4 +1,4 @@
-export default function AboutMe() {
+export default function Intro() {
     return (
         <div>
             <h1 className="title">about me!</h1>
