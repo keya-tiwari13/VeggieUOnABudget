@@ -22,7 +22,12 @@ export default function Intro() {
             <div className="col img">
                 <img src="/images/smelly.jpg" alt="" />
             </div>
+            <br />
             <h1 className="title">why did i make this site?</h1>
+            <div className="why">
+                <br />
+                <p>because of our hectic schedules, my friends and i are often found buying meals outside because we have extremely limited "break" time between classes. although i enjoy quickly grabbing a bite from my fav burrito place, my bank account doesn't love it as much...</p>
+            </div>
         </div>
     );
 }
