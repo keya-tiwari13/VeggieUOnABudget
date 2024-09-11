@@ -22,6 +22,7 @@ export default function Intro() {
             <div className="col img">
                 <img src="/images/smelly.jpg" alt="" />
             </div>
+            <h1 className="title">why did i make this site?</h1>
         </div>
     );
 }

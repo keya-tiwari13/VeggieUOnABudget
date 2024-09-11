@@ -30,6 +30,7 @@ a{
 
 img{
     object-fit: cover;
+    width: 50%;
 }
 
 .btn{
@@ -149,6 +150,10 @@ img{
 @import "partials/footer.scss";
 
 .main{
+    padding-block: 3vw;
+}
+
+.aboutme{
     padding-block: 3vw;
 }
 
