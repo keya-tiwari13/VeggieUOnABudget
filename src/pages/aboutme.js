@@ -1,7 +1,7 @@
 export default function AboutMe(){
     return(
         <div>
-            about me!
+            <h1 className="title">about me!</h1>
         </div>
     )
 }
