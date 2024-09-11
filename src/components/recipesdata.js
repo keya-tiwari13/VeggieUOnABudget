@@ -36,12 +36,31 @@ const recipes = [
         title: "quinoa salad",
         image: "/images/quinoa.jpg",
         info:"simple quinoa salads have saved my lunches",
+        description:"i am the biggest fan of quinoa salad i know! i used to buy those bulk quinoa salad boxes from costco until my family learned how truly easy it is to make at home.",
+        steps: [
+            "start by cooking about 1 cup of quinoa (rinse it first!)- just follow the instructions on the package, it's super easy. usually it's a 1:2 quinoa to water ratio.",
+            "while the quinoa is cooking, chop up some veggies. i usually go with cucumber, cherry tomatoes, and some bell peppers, but honestly, use whatever you have in the fridge.",
+            "once your quinoa is cooked and fluffy, let it cool for a few minutes.",
+            "throw all your veggies into a big bowl and add the quinoa once it's cooled a bit.",
+            "dress it up with a drizzle of olive oil, a squeeze of lemon juice, salt, and pepper. if you're feeling fancy, throw in a little feta cheese or some avocado.",
+            "toss everything together until it's all evenly mixed. taste it and add more seasoning or lemon juice if needed.",
+            "you're done! enjoy :)",
+            "NOTE: for some extra protein, you can even throw in some chickpeas if you have!"
+        ],        
         path:"/recipes/quinoasalad"
     },
     {
         title: "cucumber roll",
         image: "/images/roll.jpg",
         info:"cute way of getting more veggies in",
+        description:"honestly, this recipe is something i started doing because i truly believe that i enjoy eating more if i get to plate my food in an aesthetic way. so whenever i feel like i just want to eat a whole cucumber this is usually what i go with!",
+        steps: [
+            "be extremely careful when doing this!! cut ur your cucumber into long, thing slices, and pat dry to remove excess water.",
+            "cut up some tomato, olive, feta, or anything else you want to throw in here, into small pieces.",
+            "this part is a bit tricky but trust me it comes with practice: lay a bit of everything onto each slice of cucumber and roll it so that everything fits into it.",
+            "you can also stick a toothpick into it so that it helps prevent everything falling out of it. ",
+            "pair with a salad dressing of your choice and you're done!"
+        ],        
         path:"/recipes/cucumberroll"
     },
     {
