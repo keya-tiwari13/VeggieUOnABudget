@@ -48,7 +48,7 @@ img{
 }
 
 .custom-image{
-    background-color: red;
+    background-color: white;
     height: 0;
     width: 100%;
     position: relative;
@@ -88,19 +88,13 @@ img{
     }
 }
 
-.main{
-    padding-block: 3vw;
-}
-
-.container{
-    padding-inline: 15vw;
-}
 
 @import "partials/animations";
 @import "partials/mainsection.scss";
 @import "partials/motivation.scss";
 @import "partials/searches.scss";
 @import "partials/recipes-section.scss";
+
 
 .options-container{
     box-shadow: 0 5px 10px var(--shadow-color);
@@ -152,6 +146,14 @@ img{
 
 
 @import "partials/footer.scss";
+
+.main{
+    padding-block: 3vw;
+}
+
+.container{
+    padding-inline: 15vw;
+}
 
 @media screen and (max-width: 1280px){
     .container{
