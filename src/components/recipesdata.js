@@ -67,18 +67,32 @@ const recipes = [
         title: "tomato soup",
         image: "/images/soup.jpg",
         info:"for throw in a pot and let happen type of nights",
+        description:"for this recipe i do recommend using a blender because i personally hate chunks of tomato in my soups so if you're like me then i highly suggest it!",
+        steps: [
+            "start by heating 1 tbsp of olive oil in a big pot. throw in a couple of cloves of garlic (minced) and 1 onion (chopped). sauté until everything smells amazing and the onion turns soft.",
+            "add in about 5-6 fresh tomatoes (roughly chopped). if you don't have fresh ones, just use a can of diced tomatoes - it'll still taste awesome.",
+            "pour in 3 cups of veggie broth or water with a bouillon cube, and let everything simmer for 15-20 minutes until the tomatoes are super soft.",
+            "season it up with salt, pepper, and if you would like, a pinch of sugar to balance the acidity. feel free to add some dried basil, thyme, spice, or other seasonings if you like.",
+            "now my fav part - blend it! you can use an immersion blender right in the pot or CAREFULYL transfer everything to a blender and blend until smooth.",
+            "once blended, taste and adjust seasoning if needed. if it's too thick for your liking, add a bit more broth or water to thin it out.",
+            "serve it up with a drizzle of olive oil if you're feeling fancy. perfect with a side of bread or grilled cheese!"
+        ],
         path:"/recipes/tomatosoup"
     }, 
     {
         title: "paneer & cabbage dumplings",
         image: "/images/dumplings.jpg",
         info:"for when you are feeling fancy and need to feed a village",
+        description:"coming soon!",
+        steps:["most important step- stay tuned!"],
         path:"/recipes/paneerdumplings"
     },
     {
         title: "black bean tacos",
         image: "/images/taco.jpg",
         info:"my absolute favourite tacos that my family also love",
+        description:"coming soon!",
+        steps:["most important step- stay tuned!"],
         path:"/recipes/blackbeantacos"
     }
 ];
